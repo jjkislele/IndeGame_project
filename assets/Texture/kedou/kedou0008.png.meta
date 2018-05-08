@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8113721f-33a6-4527-9019-8144d0136894",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kedou0008": {
+      "ver": "1.0.3",
+      "uuid": "3c7d4d16-f578-412c-9ad5-395f04685ca1",
+      "rawTextureUuid": "8113721f-33a6-4527-9019-8144d0136894",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -38,
+      "offsetY": 22.5,
+      "trimX": 186,
+      "trimY": 144,
+      "width": 102,
+      "height": 67,
+      "rawWidth": 550,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

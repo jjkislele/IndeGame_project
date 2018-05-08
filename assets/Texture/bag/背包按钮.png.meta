@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fbec9b70-9e26-4e82-ae1e-8af1da0a4922",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "背包按钮": {
+      "ver": "1.0.3",
+      "uuid": "7f1416d9-d55c-471d-8e5c-dca014ce8600",
+      "rawTextureUuid": "fbec9b70-9e26-4e82-ae1e-8af1da0a4922",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -51,
+      "offsetY": -10.5,
+      "trimX": 87,
+      "trimY": 21,
+      "width": 224,
+      "height": 188,
+      "rawWidth": 500,
+      "rawHeight": 209,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

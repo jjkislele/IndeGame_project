@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d3ceacb9-f997-4a1d-a710-4c81f35be3e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "平凡之下 logo": {
+      "ver": "1.0.3",
+      "uuid": "f8a57dcb-995f-47e6-9dfd-cb9049fefcf5",
+      "rawTextureUuid": "d3ceacb9-f997-4a1d-a710-4c81f35be3e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": 89.5,
+      "trimX": 274,
+      "trimY": 77,
+      "width": 461,
+      "height": 691,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

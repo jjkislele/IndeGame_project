@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "teenth",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.06666666666666667,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "00974afa-e55d-4d3f-a9b7-a4849b9e6937"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "5f263931-efb9-449b-94d5-157b772fc94c"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "0ffe9e27-e9b9-4216-9233-cccc81e22fa3"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "54d56d42-d3dc-49fd-9875-310a38103c68"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

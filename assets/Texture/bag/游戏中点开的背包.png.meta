@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8e43561b-4da3-408a-8f8e-8c41e43494e1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "游戏中点开的背包": {
+      "ver": "1.0.3",
+      "uuid": "50aad8e9-ff5a-4cc7-a0d7-bedc56e3da1d",
+      "rawTextureUuid": "8e43561b-4da3-408a-8f8e-8c41e43494e1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 40,
+      "offsetY": -47.5,
+      "trimX": 106,
+      "trimY": 107,
+      "width": 703,
+      "height": 447,
+      "rawWidth": 835,
+      "rawHeight": 566,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
